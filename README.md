@@ -7,7 +7,7 @@ Data source: [DWD OpenData – Health Forecasts](https://opendata.dwd.de/climate
 
 <!-- UVI_TABLE_START -->
 
-[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/raw/main/output/uvi-map-nrw-today.jpg?1776925911)](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/blob/main/output/uvi-map-nrw-today.jpg)
+[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/raw/main/output/uvi-map-nrw-today.jpg?1776939668)](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/blob/main/output/uvi-map-nrw-today.jpg)
 
 ---
 
