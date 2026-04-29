@@ -7,26 +7,26 @@ Data source: [DWD OpenData – Health Forecasts](https://opendata.dwd.de/climate
 
 <!-- UVI_TABLE_START -->
 
-[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/raw/main/output/uvi-map-nrw-today.jpg?1777374268)](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/blob/main/output/uvi-map-nrw-today.jpg)
+[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/raw/main/output/uvi-map-nrw-today.jpg?1777456054)](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/blob/main/output/uvi-map-nrw-today.jpg)
 
 ---
 
-## Top 10 — Highest UV Index Today (2026-04-28)
+## Top 10 — Highest UV Index Today (2026-04-29)
 
-*Forecast base: 2026-04-28 04:25 UTC · Generated: 2026-04-28T04:25:15Z*
+*Forecast base: 2026-04-29 04:25 UTC · Generated: 2026-04-29T04:25:47Z*
 
-|   | Municipality | Today (2026-04-28) | Tomorrow (2026-04-29) | Day after (2026-04-30) | Risk |
+|   | Municipality | Today (2026-04-29) | Tomorrow (2026-04-30) | Day after (2026-05-01) | Risk |
 |:---:|:---|:---|:---|:---|:---|
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Monschau** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Blankenheim** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Dahlem** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Nettersheim** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Schleiden** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Baesweiler** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Simmerath** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Heimbach** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Nideggen** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Vettweiß** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Monschau** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Simmerath** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Blankenheim** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Dahlem** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Nettersheim** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Roetgen** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Titz** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Hellenthal** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Mechernich** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Schleiden** | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | ![](https://placehold.co/14x14/FED300/FED300.png) **5** · Moderate | Moderate |
 
 ### Colour scale
 
