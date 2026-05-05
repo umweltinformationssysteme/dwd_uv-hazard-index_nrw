@@ -47,38 +47,47 @@ TOP_N    = 10
 # UV Index classification (WHO scale)
 # ---------------------------------------------------------------------------
 # (upper bound inclusive, label, risk, hex colour)
-UV_CLASSES = [
-    ( 2, "Low",      "Low",      "#339C23"),
-    ( 3, "Moderate", "Moderate", "#9CC401"),
-    ( 4, "Moderate", "Moderate", "#FFF200"),
-    ( 5, "Moderate", "Moderate", "#FED300"),
-    ( 6, "Moderate", "Moderate", "#F7AF00"),
-    ( 7, "High",     "High",     "#EF8300"),
-    ( 8, "High",     "High",     "#EA6003"),
-    ( 9, "Very high","Very high","#D90017"),
-    (10, "Very high","Very high","#FF009A"),
-    (11, "Very high","Very high","#B64BFF"),
-    (99, "Extreme",  "Extreme",  "#9A8DFF"),
+# Exact per-integer colour lookup (WHO UV index scale).
+# Raw float values are rounded to nearest integer before lookup.
+UV_MAP: dict[int, tuple[str, str, str]] = {
+    # (uvi_int): (label_en, risk_en, hex_colour)
+    1:  ("Low",       "Low",       "#339C23"),
+    2:  ("Low",       "Low",       "#9CC401"),
+    3:  ("Moderate",  "Moderate",  "#FFF200"),
+    4:  ("Moderate",  "Moderate",  "#FED300"),
+    5:  ("Moderate",  "Moderate",  "#F7AF00"),
+    6:  ("High",      "High",      "#EF8300"),
+    7:  ("High",      "High",      "#EA6003"),
+    8:  ("Very high", "Very high", "#D90017"),
+    9:  ("Very high", "Very high", "#FF009A"),
+    10: ("Very high", "Very high", "#B64BFF"),
+}
+UV_EXTREME = ("Extreme", "Extreme", "#9A8DFF")  # UVI ≥ 11
+
+# Full 11-row legend for README (each UVI value gets its own row)
+LEGEND_ROWS = [
+    # (uvi_str, risk_en, risk_de, hex)
+    ("1",   "Low",       "Niedrig",    "#339C23"),
+    ("2",   "Low",       "Niedrig",    "#9CC401"),
+    ("3",   "Moderate",  "Mäßig",      "#FFF200"),
+    ("4",   "Moderate",  "Mäßig",      "#FED300"),
+    ("5",   "Moderate",  "Mäßig",      "#F7AF00"),
+    ("6",   "High",      "Hoch",       "#EF8300"),
+    ("7",   "High",      "Hoch",       "#EA6003"),
+    ("8",   "Very high", "Sehr hoch",  "#D90017"),
+    ("9",   "Very high", "Sehr hoch",  "#FF009A"),
+    ("10",  "Very high", "Sehr hoch",  "#B64BFF"),
+    ("11+", "Extreme",   "Extrem",     "#9A8DFF"),
 ]
 
-# Compact legend for README (one row per risk group)
-LEGEND_GROUPS = [
-    # (uvi_range, label, risk, hex)
-    ("1–2",  "Low",      "Low",      "#339C23"),
-    ("3–5",  "Moderate", "Moderate", "#FED300"),
-    ("6–7",  "High",     "High",     "#EF8300"),
-    ("8–10", "Very high","Very high","#D90017"),
-    ("11+",  "Extreme",  "Extreme",  "#9A8DFF"),
-]
 
-
-def classify(uvi: float) -> dict:
-    """Return label, risk and hex colour for a UV index value."""
-    val = round(float(uvi))
-    for upper, label, risk, hex_c in UV_CLASSES:
-        if val <= upper:
-            return {"uvi_class": label, "risk": risk, "bg_color": hex_c}
-    return {"uvi_class": "Extreme", "risk": "Extreme", "bg_color": "#9A8DFF"}
+def classify(uvi_raw: float) -> dict:
+    """Return label, risk and hex colour for a UV index value.
+    Rounds float to nearest integer (e.g. 2.9 → 3 → Moderate #FFF200).
+    """
+    v = max(1, int(round(float(uvi_raw))))
+    label, risk, hex_c = UV_MAP.get(v, UV_EXTREME)
+    return {"uvi_class": label, "risk": risk, "bg_color": hex_c}
 
 
 def badge(hex_c: str) -> str:
@@ -301,7 +310,7 @@ def build_table(results: list[dict], dates: dict,
         return f"{badge(d['bg_color'])} **{d['uvi_max']:.0f}** · {d['uvi_class']}"
 
     cache_bust = int(time.time())
-    repo_url   = "https://github.com/umweltinformationssysteme/NRW-uv-hazard-index"
+    repo_url   = "https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw"
     map_url    = f"{repo_url}/raw/main/output/uvi-map-nrw-today.jpg?{cache_bust}"
     map_link   = f"{repo_url}/blob/main/output/uvi-map-nrw-today.jpg"
 
@@ -337,13 +346,14 @@ def build_table(results: list[dict], dates: dict,
 
     lines += [
         "",
-        "### Colour scale",
+        "### Colour scale / Farbskala",
         "",
-        "| Colour | UV Index | Classification | Risk |",
-        "|:------:|:--------:|----------------|------|",
+        "| Colour | UV Index | Risk level (EN) | Gefährdung (DE) |",
+        "|:------:|:--------:|----------------|-----------------|",
     ]
-    for uvi_range, label, risk, hex_c in LEGEND_GROUPS:
-        lines.append(f"| {badge(hex_c)} | {uvi_range} | {label} | {risk} |")
+    for uvi_str, risk_en, risk_de, hex_c in LEGEND_ROWS:
+        b = f"![](https://placehold.co/18x18/{hex_c.lstrip('#')}/{hex_c.lstrip('#')}.png)"
+        lines.append(f"| {b} | {uvi_str} | {risk_en} | {risk_de} |")
 
     lines += ["", "<!-- UVI_TABLE_END -->"]
     return "\n".join(lines)
