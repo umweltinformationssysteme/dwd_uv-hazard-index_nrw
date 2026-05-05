@@ -39,19 +39,13 @@ POLY_ALPHA = 0.78
 # ---------------------------------------------------------------------------
 # UV Index colour scale (WHO)
 # ---------------------------------------------------------------------------
-UV_STEPS = [
-    ( 2, "#339C23"),
-    ( 3, "#9CC401"),
-    ( 4, "#FFF200"),
-    ( 5, "#FED300"),
-    ( 6, "#F7AF00"),
-    ( 7, "#EF8300"),
-    ( 8, "#EA6003"),
-    ( 9, "#D90017"),
-    (10, "#FF009A"),
-    (11, "#B64BFF"),
-    (99, "#9A8DFF"),
-]
+# Same dict-based lookup as fetch_uvi.py – round float to int first
+UV_MAP: dict[int, str] = {
+    1: "#339C23", 2: "#9CC401", 3: "#FFF200", 4: "#FED300",
+    5: "#F7AF00", 6: "#EF8300", 7: "#EA6003", 8: "#D90017",
+    9: "#FF009A", 10: "#B64BFF",
+}
+UV_EXTREME_HEX = "#9A8DFF"  # UVI ≥ 11
 
 LEGEND_GROUPS = [
     ("1–2",  "Low",       "#339C23"),
@@ -63,13 +57,13 @@ LEGEND_GROUPS = [
 
 
 def classify_colour(uvi) -> str:
+    """Map UV index float → hex colour. Rounds to nearest integer (like fetch_uvi.py)."""
     try:
         if uvi is None: return "#CCCCCC"
         v = float(uvi)
         if np.isnan(v): return "#CCCCCC"
-        for upper, hex_c in UV_STEPS:
-            if v <= upper: return hex_c
-        return "#9A8DFF"
+        vi = max(1, int(round(v)))          # 2.9 → 3, 3.4 → 3, 4.5 → 5
+        return UV_MAP.get(vi, UV_EXTREME_HEX)
     except (TypeError, ValueError):
         return "#CCCCCC"
 
