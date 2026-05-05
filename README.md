@@ -7,36 +7,42 @@ Data source: [DWD OpenData – Health Forecasts](https://opendata.dwd.de/climate
 
 <!-- UVI_TABLE_START -->
 
-[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/raw/main/output/uvi-map-nrw-today.jpg?1777892698)](https://github.com/umweltinformationssysteme/NRW-uv-hazard-index/blob/main/output/uvi-map-nrw-today.jpg)
+[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/raw/main/output/uvi-map-nrw-today.jpg?1777975717)](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/blob/main/output/uvi-map-nrw-today.jpg)
 
 ---
 
-## Top 10 — Highest UV Index Today (2026-05-04)
+## Top 10 — Highest UV Index Today (2026-05-05)
 
-*Forecast base: 2026-05-04 04:24 UTC · Generated: 2026-05-04T04:24:58Z*
+*Forecast base: 2026-05-05 04:24 UTC · Generated: 2026-05-05T04:24:46Z*
 
-|   | Municipality | Today (2026-05-04) | Tomorrow (2026-05-05) | Day after (2026-05-06) | Risk |
+|   | Municipality | Today (2026-05-05) | Tomorrow (2026-05-06) | Day after (2026-05-07) | Risk |
 |:---:|:---|:---|:---|:---|:---|
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Salzkotten** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **2** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Warburg** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/9CC401/9CC401.png) **2** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Geseke** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **2** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Beverungen** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **2** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Borgentreich** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/9CC401/9CC401.png) **3** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Brakel** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/9CC401/9CC401.png) **2** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Höxter** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **2** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Marienmünster** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **2** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Borchen** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **2** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
-| ![](https://placehold.co/14x14/FFF200/FFF200.png) | **Gescher** | ![](https://placehold.co/14x14/FFF200/FFF200.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Netphen** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/FFF200/FFF200.png) **3** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **2** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Waldbröl** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/FFF200/FFF200.png) **3** · Moderate | ![](https://placehold.co/14x14/9CC401/9CC401.png) **2** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Hallenberg** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **2** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Morsbach** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/FFF200/FFF200.png) **3** · Moderate | ![](https://placehold.co/14x14/9CC401/9CC401.png) **2** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Rietberg** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Delbrück** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Marsberg** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Kreuztal** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/FFF200/FFF200.png) **3** · Moderate | ![](https://placehold.co/14x14/9CC401/9CC401.png) **2** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Siegen** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/FFF200/FFF200.png) **3** · Moderate | ![](https://placehold.co/14x14/9CC401/9CC401.png) **2** · Low | Moderate |
+| ![](https://placehold.co/14x14/FED300/FED300.png) | **Wilnsdorf** | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/FFF200/FFF200.png) **3** · Moderate | ![](https://placehold.co/14x14/9CC401/9CC401.png) **2** · Low | Moderate |
 
-### Colour scale
+### Colour scale / Farbskala
 
-| Colour | UV Index | Classification | Risk |
-|:------:|:--------:|----------------|------|
-| ![](https://placehold.co/14x14/339C23/339C23.png) | 1–2 | Low | Low |
-| ![](https://placehold.co/14x14/FED300/FED300.png) | 3–5 | Moderate | Moderate |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | 6–7 | High | High |
-| ![](https://placehold.co/14x14/D90017/D90017.png) | 8–10 | Very high | Very high |
-| ![](https://placehold.co/14x14/9A8DFF/9A8DFF.png) | 11+ | Extreme | Extreme |
+| Colour | UV Index | Risk level (EN) | Gefährdung (DE) |
+|:------:|:--------:|----------------|-----------------|
+| ![](https://placehold.co/18x18/339C23/339C23.png) | 1 | Low | Niedrig |
+| ![](https://placehold.co/18x18/9CC401/9CC401.png) | 2 | Low | Niedrig |
+| ![](https://placehold.co/18x18/FFF200/FFF200.png) | 3 | Moderate | Mäßig |
+| ![](https://placehold.co/18x18/FED300/FED300.png) | 4 | Moderate | Mäßig |
+| ![](https://placehold.co/18x18/F7AF00/F7AF00.png) | 5 | Moderate | Mäßig |
+| ![](https://placehold.co/18x18/EF8300/EF8300.png) | 6 | High | Hoch |
+| ![](https://placehold.co/18x18/EA6003/EA6003.png) | 7 | High | Hoch |
+| ![](https://placehold.co/18x18/D90017/D90017.png) | 8 | Very high | Sehr hoch |
+| ![](https://placehold.co/18x18/FF009A/FF009A.png) | 9 | Very high | Sehr hoch |
+| ![](https://placehold.co/18x18/B64BFF/B64BFF.png) | 10 | Very high | Sehr hoch |
+| ![](https://placehold.co/18x18/9A8DFF/9A8DFF.png) | 11+ | Extreme | Extrem |
 
 <!-- UVI_TABLE_END -->
 
