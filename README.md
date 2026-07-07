@@ -7,26 +7,26 @@ Data source: [DWD OpenData – Health Forecasts](https://opendata.dwd.de/climate
 
 <!-- UVI_TABLE_START -->
 
-[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/raw/main/output/uvi-map-nrw-today.jpg?1783341901)](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/blob/main/output/uvi-map-nrw-today.jpg)
+[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/raw/main/output/uvi-map-nrw-today.jpg?1783424854)](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/blob/main/output/uvi-map-nrw-today.jpg)
 
 ---
 
-## Top 10 — Highest UV Index Today (2026-07-06)
+## Top 10 — Highest UV Index Today (2026-07-07)
 
-*Forecast base: 2026-07-06 04:27 UTC · Generated: 2026-07-06T04:27:36Z*
+*Forecast base: 2026-07-07 04:29 UTC · Generated: 2026-07-07T04:29:31Z*
 
-|   | Municipality | Today (2026-07-06) | Tomorrow (2026-07-07) | Day after (2026-07-08) | Risk |
+|   | Municipality | Today (2026-07-07) | Tomorrow (2026-07-08) | Day after (2026-07-09) | Risk |
 |:---:|:---|:---|:---|:---|:---|
-| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Monschau** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | **Eschweiler** | ![](https://placehold.co/14x14/EF8300/EF8300.png) **6** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | **Stolberg (Rhld.)** | ![](https://placehold.co/14x14/EF8300/EF8300.png) **6** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | **Hürtgenwald** | ![](https://placehold.co/14x14/EF8300/EF8300.png) **6** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | **Langerwehe** | ![](https://placehold.co/14x14/EF8300/EF8300.png) **6** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | **Roetgen** | ![](https://placehold.co/14x14/EF8300/EF8300.png) **6** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | **Aachen** | ![](https://placehold.co/14x14/EF8300/EF8300.png) **6** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | **Simmerath** | ![](https://placehold.co/14x14/EF8300/EF8300.png) **6** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **8** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | **Aldenhoven** | ![](https://placehold.co/14x14/EF8300/EF8300.png) **6** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
-| ![](https://placehold.co/14x14/EF8300/EF8300.png) | **Inden** | ![](https://placehold.co/14x14/EF8300/EF8300.png) **6** · High | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/F7AF00/F7AF00.png) **5** · Moderate | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Monschau** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Roetgen** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Eschweiler** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Simmerath** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Stolberg (Rhld.)** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Aldenhoven** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Hürtgenwald** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Inden** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Jülich** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
+| ![](https://placehold.co/14x14/EA6003/EA6003.png) | **Langerwehe** | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | ![](https://placehold.co/14x14/FED300/FED300.png) **4** · Moderate | ![](https://placehold.co/14x14/EA6003/EA6003.png) **7** · High | High |
 
 ### Colour scale / Farbskala
 
