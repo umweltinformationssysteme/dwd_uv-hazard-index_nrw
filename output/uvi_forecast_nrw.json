@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-11-04T16:48:53.887235+00:00",
-  "model_run_utc": "2026-11-04T04:31:00+00:00",
-  "valid_start_utc": "2026-11-04T00:00:00+00:00",
+  "generated_at_utc": "2026-11-05T17:04:34.266930+00:00",
+  "model_run_utc": "2026-11-05T04:27:40+00:00",
+  "valid_start_utc": "2026-11-05T00:00:00+00:00",
   "forecast_dates": {
-    "today": "2026-11-04",
-    "tomorrow": "2026-11-05",
-    "day_after_tomorrow": "2026-11-06"
+    "today": "2026-11-05",
+    "tomorrow": "2026-11-06",
+    "day_after_tomorrow": "2026-11-07"
   },
   "data_source": "DWD OpenData – Health Forecasts (ICON-EU-Nest, GRIB2)",
   "classification": "WHO UV Index scale",
@@ -28,7 +28,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -53,7 +53,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -78,7 +78,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -103,7 +103,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -128,7 +128,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -153,7 +153,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -178,7 +178,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -191,7 +191,7 @@
       "lon": 7.194356,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -203,7 +203,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -216,7 +216,7 @@
       "lon": 7.085665,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -228,7 +228,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -241,7 +241,7 @@
       "lon": 7.195874,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -253,7 +253,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -266,13 +266,13 @@
       "lon": 6.184726,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -291,13 +291,13 @@
       "lon": 6.242771,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -328,7 +328,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -347,7 +347,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -378,7 +378,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -391,13 +391,13 @@
       "lon": 6.287776,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -428,7 +428,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -453,7 +453,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -466,13 +466,13 @@
       "lon": 6.138858,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -491,7 +491,7 @@
       "lon": 6.007969,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -516,13 +516,13 @@
       "lon": 6.39621,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -547,13 +547,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -578,7 +578,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -597,13 +597,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -628,7 +628,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -653,7 +653,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -672,13 +672,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -691,7 +691,7 @@
       "lon": 7.010639,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -703,7 +703,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -716,19 +716,19 @@
       "lon": 6.966531,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -747,13 +747,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -778,7 +778,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -791,7 +791,7 @@
       "lon": 6.978743,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -803,7 +803,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -828,7 +828,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -847,13 +847,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -866,7 +866,7 @@
       "lon": 7.041629,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -878,7 +878,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -891,7 +891,7 @@
       "lon": 7.033183,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -903,7 +903,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -928,7 +928,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -953,7 +953,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -966,7 +966,7 @@
       "lon": 6.503837,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -978,7 +978,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1003,7 +1003,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1028,7 +1028,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1053,7 +1053,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1078,7 +1078,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1103,7 +1103,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1116,7 +1116,7 @@
       "lon": 6.185264,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1128,7 +1128,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1141,7 +1141,7 @@
       "lon": 6.342117,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1153,7 +1153,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1166,7 +1166,7 @@
       "lon": 6.418755,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1178,7 +1178,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1191,7 +1191,7 @@
       "lon": 6.275553,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1203,7 +1203,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1216,7 +1216,7 @@
       "lon": 6.219216,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1228,7 +1228,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1241,7 +1241,7 @@
       "lon": 6.273039,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1253,7 +1253,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1266,7 +1266,7 @@
       "lon": 6.492628,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1278,7 +1278,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1291,7 +1291,7 @@
       "lon": 6.389226,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1303,7 +1303,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1316,7 +1316,7 @@
       "lon": 6.550043,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1328,7 +1328,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1353,7 +1353,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1397,7 +1397,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1453,7 +1453,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1478,7 +1478,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1491,19 +1491,19 @@
       "lon": 6.573385,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1547,7 +1547,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1578,7 +1578,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1622,7 +1622,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1647,13 +1647,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1672,13 +1672,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1691,7 +1691,7 @@
       "lon": 6.957068,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1703,7 +1703,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1722,13 +1722,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1741,7 +1741,7 @@
       "lon": 6.0848,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1753,7 +1753,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1766,7 +1766,7 @@
       "lon": 6.161607,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1778,7 +1778,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1791,19 +1791,19 @@
       "lon": 6.181166,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1816,7 +1816,7 @@
       "lon": 6.266781,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1828,7 +1828,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1841,7 +1841,7 @@
       "lon": 6.089184,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1853,7 +1853,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1866,19 +1866,19 @@
       "lon": 6.239288,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.3,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
+        "tomorrow": {
+          "uvi_max": 1.0,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1891,19 +1891,19 @@
       "lon": 6.196427,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
+        "tomorrow": {
+          "uvi_max": 1.0,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1916,19 +1916,19 @@
       "lon": 6.30057,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
+        "tomorrow": {
+          "uvi_max": 1.0,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1941,7 +1941,7 @@
       "lon": 6.227418,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1953,7 +1953,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1966,7 +1966,7 @@
       "lon": 6.13022,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1978,7 +1978,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -1991,7 +1991,7 @@
       "lon": 6.281953,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2003,7 +2003,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2016,19 +2016,19 @@
       "lon": 6.482964,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2047,7 +2047,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2066,7 +2066,7 @@
       "lon": 6.392832,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2078,7 +2078,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2091,7 +2091,7 @@
       "lon": 6.358038,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2103,7 +2103,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2116,19 +2116,19 @@
       "lon": 6.357721,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2141,7 +2141,7 @@
       "lon": 6.489241,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2166,7 +2166,7 @@
       "lon": 6.360112,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2178,7 +2178,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2191,19 +2191,19 @@
       "lon": 6.267275,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2216,19 +2216,19 @@
       "lon": 6.524672,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2247,7 +2247,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2266,7 +2266,7 @@
       "lon": 6.462259,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2278,7 +2278,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2291,7 +2291,7 @@
       "lon": 6.644576,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2303,7 +2303,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2316,7 +2316,7 @@
       "lon": 6.428861,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2328,7 +2328,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2341,7 +2341,7 @@
       "lon": 6.597533,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2353,7 +2353,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2366,7 +2366,7 @@
       "lon": 6.575238,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2378,7 +2378,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2391,7 +2391,7 @@
       "lon": 6.640252,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2403,7 +2403,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2416,7 +2416,7 @@
       "lon": 6.902458,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2428,7 +2428,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2441,7 +2441,7 @@
       "lon": 6.567973,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2453,7 +2453,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2466,19 +2466,19 @@
       "lon": 6.811853,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2491,7 +2491,7 @@
       "lon": 6.811192,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2503,7 +2503,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2516,7 +2516,7 @@
       "lon": 6.865451,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2528,7 +2528,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2541,7 +2541,7 @@
       "lon": 6.694948,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2553,7 +2553,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2566,7 +2566,7 @@
       "lon": 6.800707,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2578,7 +2578,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2591,7 +2591,7 @@
       "lon": 6.979971,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2603,7 +2603,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2647,7 +2647,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2672,7 +2672,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2691,7 +2691,7 @@
       "lon": 6.786098,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2703,7 +2703,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2716,13 +2716,13 @@
       "lon": 6.4342,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2741,13 +2741,13 @@
       "lon": 6.558667,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2766,13 +2766,13 @@
       "lon": 6.653673,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2797,7 +2797,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2816,13 +2816,13 @@
       "lon": 6.47648,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2841,7 +2841,7 @@
       "lon": 6.839629,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2853,7 +2853,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2866,7 +2866,7 @@
       "lon": 6.648155,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2878,7 +2878,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2891,19 +2891,19 @@
       "lon": 6.314104,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2916,19 +2916,19 @@
       "lon": 5.997397,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2941,19 +2941,19 @@
       "lon": 6.119722,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2966,19 +2966,19 @@
       "lon": 6.094538,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -2991,19 +2991,19 @@
       "lon": 6.226269,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3016,7 +3016,7 @@
       "lon": 5.902304,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3028,7 +3028,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3041,19 +3041,19 @@
       "lon": 6.118933,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3066,19 +3066,19 @@
       "lon": 5.988264,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3091,19 +3091,19 @@
       "lon": 6.155749,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3116,19 +3116,19 @@
       "lon": 6.276829,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3141,7 +3141,7 @@
       "lon": 7.648337,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3153,7 +3153,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3178,7 +3178,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3191,7 +3191,7 @@
       "lon": 7.568149,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3203,7 +3203,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3228,7 +3228,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3253,7 +3253,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3266,7 +3266,7 @@
       "lon": 7.531284,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3278,7 +3278,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3291,19 +3291,19 @@
       "lon": 7.727424,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3328,7 +3328,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3341,7 +3341,7 @@
       "lon": 7.355144,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3353,7 +3353,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3366,7 +3366,7 @@
       "lon": 7.693856,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3378,7 +3378,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3403,7 +3403,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3428,7 +3428,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3441,7 +3441,7 @@
       "lon": 7.398693,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3453,7 +3453,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3472,13 +3472,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3503,7 +3503,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3528,7 +3528,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3541,7 +3541,7 @@
       "lon": 7.014244,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3553,7 +3553,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3578,7 +3578,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3603,7 +3603,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3622,13 +3622,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3653,7 +3653,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3666,19 +3666,19 @@
       "lon": 7.013472,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3703,7 +3703,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3716,19 +3716,19 @@
       "lon": 6.990342,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3747,13 +3747,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3772,13 +3772,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3797,13 +3797,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3822,13 +3822,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3847,13 +3847,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3878,7 +3878,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3897,13 +3897,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3916,7 +3916,7 @@
       "lon": 7.037503,
       "forecasts": {
         "today": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3928,7 +3928,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3947,13 +3947,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3978,7 +3978,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -3997,13 +3997,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4022,13 +4022,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4053,7 +4053,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4072,13 +4072,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4097,13 +4097,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4122,13 +4122,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4153,7 +4153,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4191,19 +4191,19 @@
       "lon": 7.626804,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4216,13 +4216,13 @@
       "lon": 7.005037,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4241,19 +4241,19 @@
       "lon": 6.61564,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4272,7 +4272,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4291,19 +4291,19 @@
       "lon": 7.005391,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
-        "day_after_tomorrow": {
+        "tomorrow": {
           "uvi_max": 1.1,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
+        "day_after_tomorrow": {
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4316,7 +4316,7 @@
       "lon": 7.019103,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4341,13 +4341,13 @@
       "lon": 7.111581,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4372,7 +4372,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4391,13 +4391,13 @@
       "lon": 6.463264,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4416,19 +4416,19 @@
       "lon": 7.105517,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4441,13 +4441,13 @@
       "lon": 6.84057,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4472,7 +4472,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4491,19 +4491,19 @@
       "lon": 6.696075,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4516,19 +4516,19 @@
       "lon": 7.235057,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4541,13 +4541,13 @@
       "lon": 6.918003,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4572,7 +4572,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4597,7 +4597,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4616,13 +4616,13 @@
       "lon": 6.824021,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4641,19 +4641,19 @@
       "lon": 7.624004,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4666,19 +4666,19 @@
       "lon": 7.290998,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4691,19 +4691,19 @@
       "lon": 7.166744,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4722,7 +4722,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4741,19 +4741,19 @@
       "lon": 7.414407,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4772,7 +4772,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4791,13 +4791,13 @@
       "lon": 7.525307,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4816,19 +4816,19 @@
       "lon": 7.352893,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4841,13 +4841,13 @@
       "lon": 7.38,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4866,19 +4866,19 @@
       "lon": 7.209896,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4891,19 +4891,19 @@
       "lon": 7.485434,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -4966,13 +4966,13 @@
       "lon": 6.964689,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5022,7 +5022,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5072,7 +5072,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5166,13 +5166,13 @@
       "lon": 7.465557,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5191,7 +5191,7 @@
       "lon": 7.527511,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5203,7 +5203,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5216,19 +5216,19 @@
       "lon": 7.613202,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5241,13 +5241,13 @@
       "lon": 7.587248,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5266,19 +5266,19 @@
       "lon": 7.602873,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5291,19 +5291,19 @@
       "lon": 7.305156,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5316,19 +5316,19 @@
       "lon": 7.714734,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5341,7 +5341,7 @@
       "lon": 7.737293,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5353,7 +5353,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5366,19 +5366,19 @@
       "lon": 7.357204,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5391,7 +5391,7 @@
       "lon": 7.85266,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5403,7 +5403,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5416,7 +5416,7 @@
       "lon": 7.97575,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5428,7 +5428,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5441,19 +5441,19 @@
       "lon": 7.915207,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5466,13 +5466,13 @@
       "lon": 7.211686,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5491,19 +5491,19 @@
       "lon": 7.779092,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5516,13 +5516,13 @@
       "lon": 7.37282,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5541,19 +5541,19 @@
       "lon": 7.480649,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5566,13 +5566,13 @@
       "lon": 7.18865,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5591,19 +5591,19 @@
       "lon": 7.718617,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5616,13 +5616,13 @@
       "lon": 7.438651,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5641,7 +5641,7 @@
       "lon": 7.633669,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5653,7 +5653,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5666,19 +5666,19 @@
       "lon": 7.395195,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5691,19 +5691,19 @@
       "lon": 7.814244,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5716,19 +5716,19 @@
       "lon": 7.877587,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5741,13 +5741,13 @@
       "lon": 7.319404,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5766,13 +5766,13 @@
       "lon": 7.889882,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5791,13 +5791,13 @@
       "lon": 8.042672,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5816,19 +5816,19 @@
       "lon": 8.118191,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
-        "day_after_tomorrow": {
+        "tomorrow": {
           "uvi_max": 1.1,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
+        "day_after_tomorrow": {
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5841,13 +5841,13 @@
       "lon": 7.741663,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5866,13 +5866,13 @@
       "lon": 8.024092,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5891,19 +5891,19 @@
       "lon": 7.848037,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5916,13 +5916,13 @@
       "lon": 8.146074,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5941,7 +5941,7 @@
       "lon": 7.839408,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5953,7 +5953,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5966,19 +5966,19 @@
       "lon": 8.041446,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -5991,19 +5991,19 @@
       "lon": 7.82746,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6016,19 +6016,19 @@
       "lon": 7.784022,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6041,13 +6041,13 @@
       "lon": 8.245997,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6066,19 +6066,19 @@
       "lon": 7.988499,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6091,19 +6091,19 @@
       "lon": 8.53212,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6116,7 +6116,7 @@
       "lon": 8.300771,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6128,7 +6128,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6141,13 +6141,13 @@
       "lon": 8.381067,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6166,7 +6166,7 @@
       "lon": 8.362,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6178,7 +6178,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6191,19 +6191,19 @@
       "lon": 8.227621,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6216,19 +6216,19 @@
       "lon": 8.240956,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
-        "day_after_tomorrow": {
+        "tomorrow": {
           "uvi_max": 1.1,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
+        "day_after_tomorrow": {
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6241,13 +6241,13 @@
       "lon": 8.320352,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6266,13 +6266,13 @@
       "lon": 8.293327,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6291,13 +6291,13 @@
       "lon": 8.427337,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6316,19 +6316,19 @@
       "lon": 8.656299,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6341,19 +6341,19 @@
       "lon": 8.414975,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6366,13 +6366,13 @@
       "lon": 8.508286,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6391,19 +6391,19 @@
       "lon": 8.155495,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6416,7 +6416,7 @@
       "lon": 8.411163,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6428,7 +6428,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6441,7 +6441,7 @@
       "lon": 8.58371,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6453,7 +6453,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6466,7 +6466,7 @@
       "lon": 8.559282,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6478,7 +6478,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6491,19 +6491,19 @@
       "lon": 8.673516,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6516,7 +6516,7 @@
       "lon": 8.616108,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6528,7 +6528,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6541,7 +6541,7 @@
       "lon": 8.642152,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6553,7 +6553,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6566,7 +6566,7 @@
       "lon": 8.688425,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6578,7 +6578,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6603,7 +6603,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6616,7 +6616,7 @@
       "lon": 8.48257,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6628,7 +6628,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6641,7 +6641,7 @@
       "lon": 8.860068,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6653,7 +6653,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6666,19 +6666,19 @@
       "lon": 9.017025,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6691,7 +6691,7 @@
       "lon": 9.372651,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6703,7 +6703,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6716,19 +6716,19 @@
       "lon": 9.240386,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6741,19 +6741,19 @@
       "lon": 9.184377,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6766,7 +6766,7 @@
       "lon": 9.381623,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6778,7 +6778,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6791,7 +6791,7 @@
       "lon": 9.229516,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6803,7 +6803,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6816,7 +6816,7 @@
       "lon": 9.110021,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6828,7 +6828,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6841,7 +6841,7 @@
       "lon": 9.096625,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6853,7 +6853,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6866,19 +6866,19 @@
       "lon": 9.145955,
       "forecasts": {
         "today": {
-          "uvi_max": 0.8,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6891,19 +6891,19 @@
       "lon": 9.028703,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
-        "day_after_tomorrow": {
+        "tomorrow": {
           "uvi_max": 1.1,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
+        "day_after_tomorrow": {
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6916,13 +6916,13 @@
       "lon": 8.74464,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6941,7 +6941,7 @@
       "lon": 8.747019,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6953,7 +6953,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6966,19 +6966,19 @@
       "lon": 9.115952,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -6991,7 +6991,7 @@
       "lon": 9.091039,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7003,7 +7003,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7016,7 +7016,7 @@
       "lon": 8.878641,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7028,7 +7028,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7041,7 +7041,7 @@
       "lon": 9.005779,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7053,7 +7053,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7066,7 +7066,7 @@
       "lon": 9.122575,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7078,7 +7078,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7091,7 +7091,7 @@
       "lon": 8.945418,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7103,7 +7103,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7116,7 +7116,7 @@
       "lon": 8.948163,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7128,7 +7128,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7141,7 +7141,7 @@
       "lon": 8.79254,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7153,7 +7153,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7166,7 +7166,7 @@
       "lon": 8.900886,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7178,7 +7178,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7191,19 +7191,19 @@
       "lon": 8.699336,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7216,7 +7216,7 @@
       "lon": 9.245996,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7228,7 +7228,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7241,19 +7241,19 @@
       "lon": 8.66135,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7266,7 +7266,7 @@
       "lon": 9.153219,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7278,7 +7278,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7291,19 +7291,19 @@
       "lon": 8.842969,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7316,7 +7316,7 @@
       "lon": 8.805514,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7341,13 +7341,13 @@
       "lon": 8.632644,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.8,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7366,19 +7366,19 @@
       "lon": 8.743508,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
-        "day_after_tomorrow": {
+        "tomorrow": {
           "uvi_max": 1.0,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
+        "day_after_tomorrow": {
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7397,7 +7397,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7422,13 +7422,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7441,19 +7441,19 @@
       "lon": 8.914559,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.8,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7466,7 +7466,7 @@
       "lon": 8.969816,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7478,7 +7478,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7491,19 +7491,19 @@
       "lon": 8.914539,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
-        "day_after_tomorrow": {
+        "tomorrow": {
           "uvi_max": 1.0,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
+        "day_after_tomorrow": {
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7522,13 +7522,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7541,19 +7541,19 @@
       "lon": 8.613029,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.8,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 0.9,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7566,19 +7566,19 @@
       "lon": 8.453006,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 0.8,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7591,19 +7591,19 @@
       "lon": 8.944689,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7616,19 +7616,19 @@
       "lon": 8.818502,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7641,13 +7641,13 @@
       "lon": 8.723332,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7666,13 +7666,13 @@
       "lon": 8.559696,
       "forecasts": {
         "today": {
-          "uvi_max": 0.8,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7691,13 +7691,13 @@
       "lon": 8.562506,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7716,13 +7716,13 @@
       "lon": 8.658605,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7741,19 +7741,19 @@
       "lon": 8.895788,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7766,13 +7766,13 @@
       "lon": 8.757301,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7791,13 +7791,13 @@
       "lon": 8.604954,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7816,19 +7816,19 @@
       "lon": 8.697601,
       "forecasts": {
         "today": {
-          "uvi_max": 0.8,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
-        "day_after_tomorrow": {
+        "tomorrow": {
           "uvi_max": 1.2,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
+        "day_after_tomorrow": {
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7897,13 +7897,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7916,13 +7916,13 @@
       "lon": 7.816947,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7966,7 +7966,7 @@
       "lon": 7.46522,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -7978,7 +7978,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8003,7 +8003,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8022,13 +8022,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8047,13 +8047,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8072,13 +8072,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8097,13 +8097,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8122,13 +8122,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8147,13 +8147,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8172,7 +8172,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8191,7 +8191,7 @@
       "lon": 8.064801,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8203,7 +8203,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8216,7 +8216,7 @@
       "lon": 8.398158,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8228,7 +8228,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8241,7 +8241,7 @@
       "lon": 8.568121,
       "forecasts": {
         "today": {
-          "uvi_max": 0.8,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8253,7 +8253,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8266,19 +8266,19 @@
       "lon": 8.174776,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8291,19 +8291,19 @@
       "lon": 8.621165,
       "forecasts": {
         "today": {
-          "uvi_max": 0.7,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8316,19 +8316,19 @@
       "lon": 8.854984,
       "forecasts": {
         "today": {
-          "uvi_max": 0.7,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
-        "day_after_tomorrow": {
+        "tomorrow": {
           "uvi_max": 1.1,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
+        "day_after_tomorrow": {
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8341,19 +8341,19 @@
       "lon": 8.704871,
       "forecasts": {
         "today": {
-          "uvi_max": 0.7,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8366,7 +8366,7 @@
       "lon": 8.285176,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8378,7 +8378,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8391,7 +8391,7 @@
       "lon": 8.472696,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8403,7 +8403,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8416,7 +8416,7 @@
       "lon": 8.285496,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8428,7 +8428,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8441,7 +8441,7 @@
       "lon": 8.005553,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8453,7 +8453,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8466,19 +8466,19 @@
       "lon": 8.534051,
       "forecasts": {
         "today": {
-          "uvi_max": 0.8,
-          "uvi_class": "Low",
-          "risk": "Low",
-          "bg_color": "#339C23"
-        },
-        "tomorrow": {
           "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
-        "day_after_tomorrow": {
+        "tomorrow": {
           "uvi_max": 1.2,
+          "uvi_class": "Low",
+          "risk": "Low",
+          "bg_color": "#339C23"
+        },
+        "day_after_tomorrow": {
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8491,7 +8491,7 @@
       "lon": 7.67459,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8503,7 +8503,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8516,7 +8516,7 @@
       "lon": 7.864187,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8528,7 +8528,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8541,7 +8541,7 @@
       "lon": 7.497997,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8553,7 +8553,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8566,7 +8566,7 @@
       "lon": 7.765233,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8578,7 +8578,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8591,7 +8591,7 @@
       "lon": 7.745898,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8603,7 +8603,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8616,19 +8616,19 @@
       "lon": 7.699212,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8641,7 +8641,7 @@
       "lon": 7.586453,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8653,7 +8653,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8666,7 +8666,7 @@
       "lon": 7.63358,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8678,7 +8678,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8691,7 +8691,7 @@
       "lon": 7.638497,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8703,7 +8703,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8716,19 +8716,19 @@
       "lon": 7.795344,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8741,19 +8741,19 @@
       "lon": 7.641751,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8766,7 +8766,7 @@
       "lon": 7.77967,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8778,7 +8778,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8791,7 +8791,7 @@
       "lon": 7.874142,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8803,7 +8803,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8816,7 +8816,7 @@
       "lon": 7.529389,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8828,7 +8828,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8841,19 +8841,19 @@
       "lon": 7.766853,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8866,7 +8866,7 @@
       "lon": 7.905217,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8878,7 +8878,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8891,7 +8891,7 @@
       "lon": 7.775835,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8903,7 +8903,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8916,7 +8916,7 @@
       "lon": 7.973076,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8928,7 +8928,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8941,19 +8941,19 @@
       "lon": 8.090176,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8966,19 +8966,19 @@
       "lon": 8.073677,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -8991,7 +8991,7 @@
       "lon": 7.843584,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9003,7 +9003,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9016,7 +9016,7 @@
       "lon": 7.873424,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9028,7 +9028,7 @@
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9041,19 +9041,19 @@
       "lon": 8.392854,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9066,19 +9066,19 @@
       "lon": 8.080321,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.9,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9091,19 +9091,19 @@
       "lon": 8.256223,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9122,13 +9122,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9141,19 +9141,19 @@
       "lon": 8.113101,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9166,19 +9166,19 @@
       "lon": 7.988096,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.7,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9191,19 +9191,19 @@
       "lon": 8.41223,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9216,19 +9216,19 @@
       "lon": 8.098414,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.7,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9247,13 +9247,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9272,13 +9272,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.7,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9297,13 +9297,13 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 0.8,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9316,13 +9316,13 @@
       "lon": 8.327462,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9341,13 +9341,13 @@
       "lon": 8.164329,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9366,13 +9366,13 @@
       "lon": 7.959552,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9391,13 +9391,13 @@
       "lon": 8.336195,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9416,13 +9416,13 @@
       "lon": 8.508216,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9441,13 +9441,13 @@
       "lon": 8.143621,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9472,7 +9472,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9491,13 +9491,13 @@
       "lon": 8.131657,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9516,19 +9516,19 @@
       "lon": 8.431127,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9541,13 +9541,13 @@
       "lon": 8.106308,
       "forecasts": {
         "today": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9566,19 +9566,19 @@
       "lon": 8.353834,
       "forecasts": {
         "today": {
-          "uvi_max": 0.9,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "day_after_tomorrow": {
-          "uvi_max": 1.2,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9622,7 +9622,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9641,13 +9641,13 @@
       "lon": 7.870363,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9716,13 +9716,13 @@
       "lon": 7.767252,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9747,7 +9747,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9822,7 +9822,7 @@
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.2,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
@@ -9841,13 +9841,13 @@
       "lon": 7.468573,
       "forecasts": {
         "today": {
-          "uvi_max": 1.1,
+          "uvi_max": 1.0,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
         },
         "tomorrow": {
-          "uvi_max": 1.0,
+          "uvi_max": 1.1,
           "uvi_class": "Low",
           "risk": "Low",
           "bg_color": "#339C23"
