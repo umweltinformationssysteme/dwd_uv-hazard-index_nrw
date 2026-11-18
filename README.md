@@ -7,26 +7,26 @@ Data source: [DWD OpenData – Health Forecasts](https://opendata.dwd.de/climate
 
 <!-- UVI_TABLE_START -->
 
-[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/raw/main/output/uvi-map-nrw-today.jpg?1794938863)](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/blob/main/output/uvi-map-nrw-today.jpg)
+[![NRW UV Hazard Map](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/raw/main/output/uvi-map-nrw-today.jpg?1795024008)](https://github.com/umweltinformationssysteme/dwd_uv-hazard-index_nrw/blob/main/output/uvi-map-nrw-today.jpg)
 
 ---
 
-## Top 10 — Highest UV Index Today (2026-11-17)
+## Top 10 — Highest UV Index Today (2026-11-18)
 
-*Forecast base: 2026-11-17 04:29 UTC · Generated: 2026-11-17T04:29:37Z*
+*Forecast base: 2026-11-18 04:27 UTC · Generated: 2026-11-18T04:27:38Z*
 
-|   | Municipality | Today (2026-11-17) | Tomorrow (2026-11-18) | Day after (2026-11-19) | Risk |
+|   | Municipality | Today (2026-11-18) | Tomorrow (2026-11-19) | Day after (2026-11-20) | Risk |
 |:---:|:---|:---|:---|:---|:---|
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Aachen** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Low |
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Alsdorf** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Low |
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Baesweiler** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Low |
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Herzogenrath** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Low |
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Monschau** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Roetgen** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Simmerath** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Würselen** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Low |
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Heimbach** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Low |
-| ![](https://placehold.co/14x14/339C23/339C23.png) | **Linnich** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Düren** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Kreuzau** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Merzenich** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Nideggen** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Nörvenich** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Vettweiß** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Zülpich** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Grevenbroich** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Rommerskirchen** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
+| ![](https://placehold.co/14x14/339C23/339C23.png) | **Aachen** | ![](https://placehold.co/14x14/339C23/339C23.png) **1** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | ![](https://placehold.co/14x14/339C23/339C23.png) **0** · Low | Low |
 
 ### Colour scale / Farbskala
 
